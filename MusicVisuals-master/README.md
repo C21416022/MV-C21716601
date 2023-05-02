@@ -351,5 +351,5 @@ Case 5:
 
 # Youtube Video:
 
-[![YouTube]![An image](images/1.2.png)(https://www.youtube.com/watch?v=gzYQpCLaQWw)
+[![YouTube](images/1.2.png)(https://www.youtube.com/watch?v=gzYQpCLaQWw)
 
